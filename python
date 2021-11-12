@@ -1,0 +1,6 @@
+#Recuperation du nombre décimale
+n= int (input())
+print ("Entrer le nombre décimale =" , (n))
+
+#Conversion en hexadécimale
+print ("La base hexadecimale est =" , hex(n)[2:])
